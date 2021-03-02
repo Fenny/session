@@ -6,5 +6,5 @@ require (
 	github.com/fasthttp/session/v2 v2.2.4
 	github.com/go-redis/redis/v8 v8.3.1
 	github.com/gofiber/fiber/v2 v2.1.0
-	github.com/valyala/fasthttp v1.16.0
+	github.com/valyala/fasthttp v1.22.0
 )
